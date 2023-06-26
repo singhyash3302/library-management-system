@@ -13,3 +13,12 @@ Clone the project
 ```
 Extract the zip file and run the Lib_man_sys.cpp file
 
+## Screenshots
+![lib1](https://github.com/singhyash3302/library-management-system/assets/26682113/84025e17-d199-424a-a5d6-1989c2923e6f)
+![lib2](https://github.com/singhyash3302/library-management-system/assets/26682113/caeff6af-6411-45e1-80b8-7e2b129c6d1f)
+![lib3](https://github.com/singhyash3302/library-management-system/assets/26682113/c3597acb-3164-41bd-8f61-06160a1cb85d)
+![lib4](https://github.com/singhyash3302/library-management-system/assets/26682113/98430b12-d594-4e52-a077-89850a4912d5)
+![lib6](https://github.com/singhyash3302/library-management-system/assets/26682113/ecbb347c-fa25-43ff-92f9-7a8499ef280b)
+![lib5](https://github.com/singhyash3302/library-management-system/assets/26682113/fae01e88-af49-48fd-8409-4749596d7905)
+
+
